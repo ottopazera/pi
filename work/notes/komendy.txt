@@ -1,0 +1,4 @@
+zdanie 1:
+mkdir out/
+mkdir -p work/notes
+grep -Ei 'warn|error' data/logs/system.log > out/warn_err.txt

@@ -1,0 +1,6 @@
+2 alpha
+2 apple
+2 banana
+1 beta
+1 cherry
+1 gamma
